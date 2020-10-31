@@ -1,0 +1,6 @@
+com\javatechie\spring\mysql\api\repository\UniqueRepositiory.class
+com\javatechie\spring\mysql\api\controller\fileController.class
+com\javatechie\spring\mysql\api\services\DownloadFile.class
+com\javatechie\spring\mysql\api\model\UniqueKey.class
+com\javatechie\spring\mysql\api\services\UploadFile.class
+com\javatechie\spring\mysql\api\SpringMysqlApplication.class
